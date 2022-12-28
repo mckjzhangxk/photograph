@@ -1,0 +1,720 @@
+2022-11-10 18:03:22.145	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8a1a47950", "success": 1, "ts": 18451}
+2022-11-10 18:03:22.149	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a506a4b10", "success": 1, "ts": 21428}
+2022-11-10 18:03:22.197	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6ca698420", "success": 1, "ts": 50531}
+2022-11-10 18:03:22.207	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "fefbc8e50", "success": 1, "ts": 81391}
+2022-11-10 18:03:22.215	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4479314d0", "success": 1, "ts": 33047}
+2022-11-10 18:03:22.254	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e5bf20f10", "success": 1, "ts": 70621}
+2022-11-10 18:03:22.265	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "074eece10", "success": 1, "ts": 51907}
+2022-11-10 18:03:22.271	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "27fffcfe0", "success": 1, "ts": 144544}
+2022-11-10 18:03:22.305	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a506a4b10", "success": 1, "streamId": "2c2a4714-508e-48ee-913d-9fe8014e8f0c", "ts": 142946}
+2022-11-10 18:03:22.324	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f39bc6f10", "success": 1, "ts": 192714}
+2022-11-10 18:03:22.355	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f444835f0", "success": 1, "ts": 228134}
+2022-11-10 18:03:22.360	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8a1a47950", "success": 1, "streamId": "a855f803-6cc7-4fc6-bef8-e459283dd8f0", "ts": 197354}
+2022-11-10 18:03:22.389	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "55d3272a0", "success": 1, "ts": 115428}
+2022-11-10 18:03:22.399	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "af905c2b0", "success": 1, "ts": 130751}
+2022-11-10 18:03:22.415	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "95c989d80", "success": 1, "ts": 106443}
+2022-11-10 18:03:22.455	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "55d3272a0", "success": 1, "streamId": "824a84ef-0625-4190-94f6-4b78b84e4153", "ts": 62684}
+2022-11-10 18:03:22.461	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6ca698420", "success": 1, "streamId": "21e72d81-8f13-4d99-b485-b868f4f06f83", "ts": 261924}
+2022-11-10 18:03:22.499	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4479314d0", "success": 1, "streamId": "67439852-d503-4036-8041-2827224704a9", "ts": 281783}
+2022-11-10 18:03:22.500	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "9c3b3dc60", "success": 1, "ts": 166116}
+2022-11-10 18:03:22.509	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c283d7260", "success": 1, "ts": 326711}
+2022-11-10 18:03:22.516	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c01d1fb90", "success": 1, "ts": 163553}
+2022-11-10 18:03:22.538	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "87fa158d0", "success": 1, "ts": 166059}
+2022-11-10 18:03:22.638	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "9f54e8f90", "success": 1, "ts": 454717}
+2022-11-10 18:03:22.638	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a8c442b80", "success": 1, "ts": 505885}
+2022-11-10 18:03:22.649	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "939ea8750", "success": 1, "ts": 514599}
+2022-11-10 18:03:22.655	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6d12145b0", "success": 1, "ts": 529352}
+2022-11-10 18:03:22.662	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "074eece10", "success": 1, "streamId": "e29d1b1c-b8e3-49ce-94de-8dc6b453c039", "ts": 391976}
+2022-11-10 18:03:22.676	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "680268080", "success": 1, "ts": 333792}
+2022-11-10 18:03:22.683	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "fefbc8e50", "success": 1, "streamId": "a1c7565d-e40a-419a-92c8-1f79b757f113", "ts": 472669}
+2022-11-10 18:03:22.691	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "dec5fa080", "success": 1, "ts": 308886}
+2022-11-10 18:03:22.697	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f3c4baee0", "success": 1, "ts": 562202}
+2022-11-10 18:03:22.758	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "bfa6aaf20", "success": 1, "ts": 572905}
+2022-11-10 18:03:22.762	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6414382e0", "success": 1, "ts": 324980}
+2022-11-10 18:03:22.800	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1467cd370", "success": 1, "ts": 345952}
+2022-11-10 18:03:22.858	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4362e35a0", "success": 1, "ts": 718357}
+2022-11-10 18:03:22.871	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "04c3504f0", "success": 1, "ts": 706706}
+2022-11-10 18:03:22.898	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a7d9a92c0", "success": 1, "ts": 437301}
+2022-11-10 18:03:22.904	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0521f76b0", "success": 1, "ts": 744250}
+2022-11-10 18:03:22.920	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "27fffcfe0", "success": 1, "streamId": "14ae214e-5247-4c47-8097-5b8fa564ef06", "ts": 647287}
+2022-11-10 18:03:22.931	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2b622b230", "success": 1, "ts": 769126}
+2022-11-10 18:03:22.932	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "9c3b3dc60", "success": 1, "streamId": "deb99967-8046-42a5-ade1-7324b134ae8d", "ts": 429393}
+2022-11-10 18:03:22.952	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f39bc6f10", "success": 1, "streamId": "62158f09-cbf5-4135-a8df-064010dad13a", "ts": 624957}
+2022-11-10 18:03:22.962	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f0ac05b80", "success": 1, "ts": 596429}
+2022-11-10 18:03:22.983	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "bddd3ba70", "success": 1, "ts": 507454}
+2022-11-10 18:03:22.986	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e5bf20f10", "success": 1, "streamId": "096cf543-cf46-4501-b4a5-1a12ff314b6c", "ts": 729682}
+2022-11-10 18:03:23.007	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "87fa158d0", "success": 1, "streamId": "fa4022a2-bfe4-4260-a862-f5e438576d06", "ts": 466740}
+2022-11-10 18:03:23.046	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2b9ebfe90", "success": 1, "ts": 805466}
+2022-11-10 18:03:23.053	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "95c989d80", "success": 1, "streamId": "790a3d3d-f7aa-4759-b571-6e93d3c6671d", "ts": 634705}
+2022-11-10 18:03:23.078	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "dec5fa080", "success": 1, "streamId": "2349aed8-5380-4ee7-b135-500e16968b70", "ts": 385392}
+2022-11-10 18:03:23.083	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6414382e0", "success": 1, "streamId": "2ab32462-11e9-4375-b4f5-ce833186868d", "ts": 315885}
+2022-11-10 18:03:23.103	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c283d7260", "success": 1, "streamId": "0bf5a228-e60d-42af-acca-691adb72af65", "ts": 588504}
+2022-11-10 18:03:23.103	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f444835f0", "success": 1, "streamId": "2eaa2fc2-f37e-478b-8a44-94709ad32400", "ts": 745576}
+2022-11-10 18:03:23.103	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "680268080", "success": 1, "streamId": "ce81bbec-04dd-44f2-8c65-adee6e4a8aba", "ts": 420802}
+2022-11-10 18:03:23.133	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "939ea8750", "success": 1, "streamId": "cf148b9a-7c5c-4693-904f-97bc356d2565", "ts": 475391}
+2022-11-10 18:03:23.135	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a8c442b80", "success": 1, "streamId": "36c0e5cc-0ff4-4a39-b765-a2114a903f21", "ts": 492199}
+2022-11-10 18:03:23.161	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "777f2b630", "success": 1, "ts": 605362}
+2022-11-10 18:03:23.166	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "04c3504f0", "success": 1, "streamId": "3ed60cd7-a579-4762-b449-9936474834e4", "ts": 292893}
+2022-11-10 18:03:23.179	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "475a63420", "success": 1, "ts": 1008371}
+2022-11-10 18:03:23.210	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0f3f67680", "success": 1, "ts": 976768}
+2022-11-10 18:03:23.211	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6d12145b0", "success": 1, "streamId": "bc6d76a7-c5a6-4a9a-8b3c-3efd9f609608", "ts": 553891}
+2022-11-10 18:03:23.224	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5f42af900", "success": 1, "ts": 693381}
+2022-11-10 18:03:23.234	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4362e35a0", "success": 1, "streamId": "20cff720-6694-47d4-89be-071cfbbc2f5c", "ts": 374771}
+2022-11-10 18:03:23.235	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f0ac05b80", "success": 1, "streamId": "40657afc-650f-4e1b-a7e8-ac2a1f33547a", "ts": 270219}
+2022-11-10 18:03:23.244	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "9f54e8f90", "success": 1, "streamId": "f700191b-d213-4548-a96c-32930af8b0a0", "ts": 585150}
+2022-11-10 18:03:23.255	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c01d1fb90", "success": 1, "streamId": "644caf28-1a97-4ab4-b7ce-714888e13792", "ts": 734364}
+2022-11-10 18:03:23.263	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0521f76b0", "success": 1, "streamId": "11ffa273-98b3-4a5a-b022-6c30f3e225a2", "ts": 356391}
+2022-11-10 18:03:23.266	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "af905c2b0", "success": 1, "streamId": "74a9dd60-21fb-4056-9ec8-2cc6ac96d9f5", "ts": 865167}
+2022-11-10 18:03:23.267	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f3c4baee0", "success": 1, "streamId": "35852d9b-b130-4e5e-853b-a60d9915c300", "ts": 560722}
+2022-11-10 18:03:23.298	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c6936a8e0", "success": 1, "ts": 1126847}
+2022-11-10 18:03:23.311	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6cc94d370", "success": 1, "ts": 1097474}
+2022-11-10 18:03:23.319	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2c8e403d0", "success": 1, "ts": 1106167}
+2022-11-10 18:03:23.370	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1c926abe0", "success": 1, "ts": 792981}
+2022-11-10 18:03:23.385	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "69b6944c0", "success": 1, "ts": 1175595}
+2022-11-10 18:03:23.412	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "cbb806e30", "success": 1, "ts": 823159}
+2022-11-10 18:03:23.412	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "bfa6aaf20", "success": 1, "streamId": "479d802a-7a43-4403-89b7-4ec3cfe02204", "ts": 652885}
+2022-11-10 18:03:23.435	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2b622b230", "success": 1, "streamId": "57ec510c-0ecc-496e-9f19-e23b006ab466", "ts": 499956}
+2022-11-10 18:03:23.444	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c8aa1e890", "success": 1, "ts": 1087554}
+2022-11-10 18:03:23.444	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1467cd370", "success": 1, "streamId": "c836ef2d-b1e1-4c64-bc29-a881cefdfd0d", "ts": 641684}
+2022-11-10 18:03:23.473	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "467fb7610", "success": 1, "ts": 1143880}
+2022-11-10 18:03:23.505	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "bddd3ba70", "success": 1, "streamId": "e2a43e4d-06c9-4095-8380-9766efdffdd8", "ts": 517797}
+2022-11-10 18:03:23.513	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "467efbbf0", "success": 1, "ts": 954855}
+2022-11-10 18:03:23.686	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2b9ebfe90", "success": 1, "streamId": "1e0be07e-1b00-4662-a9a3-e34a5ecb2b1c", "ts": 637931}
+2022-11-10 18:03:23.818	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "74c246f40", "success": 1, "ts": 1295768}
+2022-11-10 18:03:23.818	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a8ef5adb0", "success": 1, "ts": 1186019}
+2022-11-10 18:03:23.822	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5f42af900", "success": 1, "streamId": "bf37e5a5-b6ce-48e6-87cf-6857163fd47c", "ts": 594887}
+2022-11-10 18:03:23.822	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "777f2b630", "success": 1, "streamId": "3f8f2a3d-cbf3-4662-b2cb-6d6a40afbd15", "ts": 655745}
+2022-11-10 18:03:23.832	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "69b6944c0", "success": 1, "streamId": "77210570-46e0-4d01-8182-1652d1d32992", "ts": 444856}
+2022-11-10 18:03:23.853	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1c926abe0", "success": 1, "streamId": "47311293-7133-4a7d-9ae0-caea3e401c35", "ts": 481477}
+2022-11-10 18:03:23.853	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0f3f67680", "success": 1, "streamId": "f0aa57aa-02a4-4ca2-954d-2cec29e26e7c", "ts": 641340}
+2022-11-10 18:03:23.895	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1109c9d70", "success": 1, "ts": 1416966}
+2022-11-10 18:03:23.940	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a3f7bb960", "success": 1, "ts": 1422274}
+2022-11-10 18:03:23.952	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "30e3259d0", "success": 1, "ts": 1767596}
+2022-11-10 18:03:23.958	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "493e30840", "success": 1, "ts": 1555081}
+2022-11-10 18:03:24.016	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "30e3259d0", "success": 1, "streamId": "0ff3d6bc-d426-42b1-8667-beb9bdb8272f", "ts": 61716}
+2022-11-10 18:03:24.019	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3d76c2340", "success": 1, "ts": 1717768}
+2022-11-10 18:03:24.027	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "467fb7610", "success": 1, "streamId": "43f0e8b6-d5a7-4da6-8856-f978ad0be5df", "ts": 551971}
+2022-11-10 18:03:24.031	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "cbb806e30", "success": 1, "streamId": "2a866c61-750b-42b4-9d2a-caebae4b9937", "ts": 617600}
+2022-11-10 18:03:24.032	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "467efbbf0", "success": 1, "streamId": "78b8fdca-5508-41a4-8180-22058af6671e", "ts": 517010}
+2022-11-10 18:03:24.034	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c8aa1e890", "success": 1, "streamId": "a21039a2-07d9-4a1c-8fc9-f5a4fd1b5c35", "ts": 588460}
+2022-11-10 18:03:24.054	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f7faaf4f0", "success": 1, "ts": 1781250}
+2022-11-10 18:03:24.067	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a7d9a92c0", "success": 1, "streamId": "6630b490-57f9-4e14-9937-ced40f816ae3", "ts": 1168086}
+2022-11-10 18:03:24.110	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b908eb8a0", "success": 1, "ts": 1673597}
+2022-11-10 18:03:24.181	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3d76c2340", "success": 1, "streamId": "2d850b54-0e07-43a5-97d6-cb7e5090d056", "ts": 159953}
+2022-11-10 18:03:24.189	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "493e30840", "success": 1, "streamId": "723f4f43-cc5c-4a41-a8d7-c6e269235f57", "ts": 229389}
+2022-11-10 18:03:24.224	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2c8e403d0", "success": 1, "streamId": "31ce3a8e-f5cf-4f56-80cf-68c35c814312", "ts": 888757}
+2022-11-10 18:03:24.267	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6cc94d370", "success": 1, "streamId": "30ba1461-3b19-46f8-af0a-93267ed6f6a7", "ts": 954468}
+2022-11-10 18:03:24.273	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0d557cd40", "success": 1, "ts": 2031338}
+2022-11-10 18:03:24.287	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f7faaf4f0", "success": 1, "streamId": "ff5a95fb-ea61-4f39-abc3-cb3697c343ca", "ts": 230481}
+2022-11-10 18:03:24.296	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7ed5ded70", "success": 1, "ts": 2111188}
+2022-11-10 18:03:24.340	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "22a842c30", "success": 1, "ts": 2129245}
+2022-11-10 18:03:24.353	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a8ef5adb0", "success": 1, "streamId": "994b34fa-12d1-47a9-8ff2-5a3864a3bed1", "ts": 532276}
+2022-11-10 18:03:24.399	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b908eb8a0", "success": 1, "streamId": "157b3204-4db2-4c24-aecb-1f976fdd8ad9", "ts": 287304}
+2022-11-10 18:03:24.522	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b58d66ae0", "success": 1, "ts": 2216260}
+2022-11-10 18:03:24.573	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "475a63420", "success": 1, "streamId": "401acbef-726c-4a04-816e-1cf4b74c7123", "ts": 1385860}
+2022-11-10 18:03:24.629	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a4a4785e0", "success": 1, "ts": 1987456}
+2022-11-10 18:03:24.643	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "22a842c30", "success": 1, "streamId": "8ff7fcd9-8375-4ad0-96ee-13d7186a85a9", "ts": 300341}
+2022-11-10 18:03:24.649	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0d557cd40", "success": 1, "streamId": "ed95109d-ffdb-49e4-be40-e1024b5c2216", "ts": 371727}
+2022-11-10 18:03:24.850	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "74c246f40", "success": 1, "streamId": "ba4e6fc4-15ca-446a-9ef9-20de24dfc1c8", "ts": 1029974}
+2022-11-10 18:03:24.919	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a3f7bb960", "success": 1, "streamId": "e484c8af-4c99-4843-9ea1-7e3e84a72f1e", "ts": 967980}
+2022-11-10 18:03:24.944	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "41d41e560", "success": 1, "ts": 2768623}
+2022-11-10 18:03:25.016	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8d5a12460", "success": 1, "ts": 2461888}
+2022-11-10 18:03:25.048	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3bd1bbab0", "success": 1, "ts": 2512048}
+2022-11-10 18:03:25.052	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7ed5ded70", "success": 1, "streamId": "2a557ac6-f8b9-4d25-9244-0e1feae8d6bc", "ts": 754377}
+2022-11-10 18:03:25.074	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1109c9d70", "success": 1, "streamId": "d6306f7e-ce4c-4a0f-bc79-8f1bf7bed284", "ts": 1175710}
+2022-11-10 18:03:25.117	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b58d66ae0", "success": 1, "streamId": "ad5c32f1-0e85-4fb9-96fa-d4373197dd49", "ts": 588279}
+2022-11-10 18:03:25.123	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a3074a7a0", "success": 1, "ts": 2688948}
+2022-11-10 18:03:25.197	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c6936a8e0", "success": 1, "streamId": "b153789b-3a8c-4cc3-809a-f26e54a76c15", "ts": 1897203}
+2022-11-10 18:03:25.198	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a3074a7a0", "success": 1, "streamId": "71a1a576-9325-44ab-9eff-cf0c739d58e7", "ts": 59635}
+2022-11-10 18:03:25.292	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3bd1bbab0", "success": 1, "streamId": "7d147a4c-a58a-4c1a-b55a-52ce579a7034", "ts": 241573}
+2022-11-10 18:03:25.314	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3f9d27570", "success": 1, "ts": 2991536}
+2022-11-10 18:03:25.340	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "177aea9a0", "success": 1, "ts": 2781127}
+2022-11-10 18:03:25.385	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "458348cd0", "success": 1, "ts": 3155268}
+2022-11-10 18:03:25.426	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e28eec9c0", "success": 1, "ts": 3119084}
+2022-11-10 18:03:25.442	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "999843f70", "success": 1, "ts": 3135719}
+2022-11-10 18:03:25.443	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8d5a12460", "success": 1, "streamId": "5867c158-9363-4734-8c66-13a8f6d1ebcc", "ts": 424853}
+2022-11-10 18:03:25.489	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e28eec9c0", "success": 1, "streamId": "36f12ca1-cb49-4df3-9c5f-b9a59a090d16", "ts": 61064}
+2022-11-10 18:03:25.492	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a4a4785e0", "success": 1, "streamId": "0e2bcc52-ced2-41b4-8886-011e19a01ef7", "ts": 861307}
+2022-11-10 18:03:25.583	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "177aea9a0", "success": 1, "streamId": "08068ea1-5561-4fb3-a904-4a64f0d16e28", "ts": 240713}
+2022-11-10 18:03:25.649	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "41d41e560", "success": 1, "streamId": "99e14ed8-0cb4-4d3a-a9af-0602e1aeb74d", "ts": 702639}
+2022-11-10 18:03:25.714	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "458348cd0", "success": 1, "streamId": "dd985532-fed9-4ce6-a405-aaecb2db0316", "ts": 326811}
+2022-11-10 18:03:25.720	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7216a9860", "success": 1, "ts": 3248863}
+2022-11-10 18:03:25.812	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1ac9c34a0", "success": 1, "ts": 3252828}
+2022-11-10 18:03:25.882	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b0304b6c0", "success": 1, "ts": 3604921}
+2022-11-10 18:03:25.882	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1d6261370", "success": 1, "ts": 3379007}
+2022-11-10 18:03:25.889	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "999843f70", "success": 1, "streamId": "13cb8563-d711-406a-a19b-a19e4c91e8a9", "ts": 445221}
+2022-11-10 18:03:25.941	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b0304b6c0", "success": 1, "streamId": "5a2a2c0a-ba0c-4aff-9984-c87947a536b6", "ts": 56952}
+2022-11-10 18:03:25.962	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3f9d27570", "success": 1, "streamId": "8a270baa-7221-4468-a203-98302e818629", "ts": 638993}
+2022-11-10 18:03:26.025	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7216a9860", "success": 1, "streamId": "1fdc5988-dac8-4471-a041-a4290b47acba", "ts": 302732}
+2022-11-10 18:03:26.156	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c794bcbd0", "success": 1, "ts": 3814970}
+2022-11-10 18:03:26.205	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1d6261370", "success": 1, "streamId": "272f1489-4f52-4b36-9cb2-7825221948f3", "ts": 321455}
+2022-11-10 18:03:26.207	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1ac9c34a0", "success": 1, "streamId": "0b4221c9-7a71-4c4d-8934-47476576ad21", "ts": 393573}
+2022-11-10 18:03:26.238	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "ef34180f0", "success": 1, "ts": 3818309}
+2022-11-10 18:03:26.284	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "847142140", "success": 1, "ts": 3829907}
+2022-11-10 18:03:26.318	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "76acc12e0", "success": 1, "ts": 3791643}
+2022-11-10 18:03:26.378	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "320a65650", "success": 1, "ts": 4134932}
+2022-11-10 18:03:26.429	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "320a65650", "success": 1, "streamId": "fee00f5a-b3ab-4238-a13a-0572eaeb3f75", "ts": 49896}
+2022-11-10 18:03:26.437	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "76acc12e0", "success": 1, "streamId": "63746bf7-f0dc-444d-a743-4c10306dcc60", "ts": 117928}
+2022-11-10 18:03:26.441	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c794bcbd0", "success": 1, "streamId": "19229a37-b3de-449f-8da1-682caf640f40", "ts": 283158}
+2022-11-10 18:03:26.446	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "00220fb30", "success": 1, "ts": 4045167}
+2022-11-10 18:03:26.471	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "00220fb30", "success": 1, "streamId": "412c73f6-7703-446e-9584-08f282efcc3e", "ts": 23636}
+2022-11-10 18:03:26.484	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "ef34180f0", "success": 1, "streamId": "1daf9143-5c92-44d4-9f9e-38392b9ede7d", "ts": 243779}
+2022-11-10 18:03:26.567	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "703e39c00", "success": 1, "ts": 4196724}
+2022-11-10 18:03:26.572	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "847142140", "success": 1, "streamId": "943f691c-0eae-4c15-a45d-0bd9dba53347", "ts": 286390}
+2022-11-10 18:03:26.602	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "703e39c00", "success": 1, "streamId": "9a60a7cb-6ce2-4225-8eb6-62ecf661f632", "ts": 33761}
+2022-11-10 18:03:26.772	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "afa9c7420", "success": 1, "ts": 4393879}
+2022-11-10 18:03:26.853	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "afa9c7420", "success": 1, "streamId": "54b15b33-f49e-43a4-bec5-61e0894a058a", "ts": 79324}
+2022-11-10 18:03:27.059	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3d01c7940", "success": 1, "ts": 4658839}
+2022-11-10 18:03:27.083	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3d01c7940", "success": 1, "streamId": "8c2121cc-cee5-42c3-b2df-b26cddb2a57d", "ts": 21642}
+2022-11-10 18:03:27.427	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c72faa000", "success": 1, "ts": 5047403}
+2022-11-10 18:03:27.503	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d6c9e1b90", "success": 1, "ts": 5226326}
+2022-11-10 18:03:27.733	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c72faa000", "success": 1, "streamId": "7049b6dd-9511-4e16-a534-0962ea766648", "ts": 304207}
+2022-11-10 18:03:27.781	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3761540f0", "success": 1, "ts": 5538896}
+2022-11-10 18:03:27.820	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3761540f0", "success": 1, "streamId": "c4fabb51-8669-423a-b89d-fc1aed900a26", "ts": 37216}
+2022-11-10 18:03:27.858	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d6c9e1b90", "success": 1, "streamId": "848a6779-af31-46b2-84e7-9f2a0f18f7e2", "ts": 353187}
+2022-11-10 18:03:27.914	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8c6333640", "success": 1, "ts": 5537736}
+2022-11-10 18:03:27.920	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a02e005e0", "success": 1, "ts": 5389409}
+2022-11-10 18:03:27.995	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d46fbfcf0", "success": 1, "ts": 5537084}
+2022-11-10 18:03:28.111	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "029888390", "success": 1, "ts": 5756426}
+2022-11-10 18:03:28.114	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d11e90060", "success": 1, "ts": 5696909}
+2022-11-10 18:03:28.159	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "51290bd70", "success": 1, "ts": 5601468}
+2022-11-10 18:03:28.317	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "9b58b6840", "success": 1, "ts": 5784711}
+2022-11-10 18:03:28.319	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "06a2ce230", "success": 1, "ts": 5983450}
+2022-11-10 18:03:28.319	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8c6333640", "success": 1, "streamId": "63278962-fb46-4fb6-a511-23649305c3be", "ts": 401514}
+2022-11-10 18:03:28.431	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "bcea456c0", "success": 1, "ts": 5895772}
+2022-11-10 18:03:28.446	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "06a2ce230", "success": 1, "streamId": "7f7511ad-8a68-40a3-b61c-7143e82c5f77", "ts": 122913}
+2022-11-10 18:03:28.451	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "9b58b6840", "success": 1, "streamId": "795adef1-748a-422d-ab9d-f455cab93bdc", "ts": 132625}
+2022-11-10 18:03:28.499	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d46fbfcf0", "success": 1, "streamId": "49c5fbdd-532f-42e7-8211-45fbe553e1e5", "ts": 499921}
+2022-11-10 18:03:28.518	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "029888390", "success": 1, "streamId": "687acf18-5609-47ca-8ae8-ea4cd5516f19", "ts": 405485}
+2022-11-10 18:03:28.518	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a02e005e0", "success": 1, "streamId": "42d4c313-0c46-413b-95d7-5a465f247fe1", "ts": 595740}
+2022-11-10 18:03:28.529	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "51290bd70", "success": 1, "streamId": "d275f48a-1d9c-4a02-a75b-2c2be297e35c", "ts": 368630}
+2022-11-10 18:03:28.704	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d11e90060", "success": 1, "streamId": "30dd64bf-a0f1-4485-b55a-6ced042e9938", "ts": 588023}
+2022-11-10 18:03:28.760	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a92388aa0", "success": 1, "ts": 6233297}
+2022-11-10 18:03:28.773	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "bcea456c0", "success": 1, "streamId": "92d0ccd1-2ddd-4f18-9923-72c422ffebf6", "ts": 340680}
+2022-11-10 18:03:28.804	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6852d45b0", "success": 1, "ts": 6301408}
+2022-11-10 18:03:28.811	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a92388aa0", "success": 1, "streamId": "4395582e-28e9-4e09-a7be-e7619765159a", "ts": 48528}
+2022-11-10 18:03:28.834	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6852d45b0", "success": 1, "streamId": "b82c89df-ec6b-482f-a83c-ecc855ad34bb", "ts": 28122}
+2022-11-10 18:03:28.836	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "fcf675110", "success": 1, "ts": 6229105}
+2022-11-10 18:03:28.936	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e76bbee30", "success": 1, "ts": 6422190}
+2022-11-10 18:03:29.045	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "183d7aee0", "success": 1, "ts": 6457474}
+2022-11-10 18:03:29.265	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f8a3a7f00", "success": 1, "ts": 6581730}
+2022-11-10 18:03:29.289	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "ad2a2bc70", "success": 1, "ts": 7046121}
+2022-11-10 18:03:29.334	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "005d8f170", "success": 1, "ts": 6701685}
+2022-11-10 18:03:29.380	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "fcf675110", "success": 1, "streamId": "d00dccac-d947-4a40-a58f-acd4374cbdde", "ts": 542414}
+2022-11-10 18:03:29.383	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "ad2a2bc70", "success": 1, "streamId": "bad526cd-ce86-4059-8160-e52318f5a79b", "ts": 92042}
+2022-11-10 18:03:29.389	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "183d7aee0", "success": 1, "streamId": "37bee755-edb4-48e8-b8d8-bee65d60f589", "ts": 341806}
+2022-11-10 18:03:29.443	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "37783e600", "success": 1, "ts": 7006833}
+2022-11-10 18:03:29.464	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "aa6762bc0", "success": 1, "ts": 7004102}
+2022-11-10 18:03:29.486	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "681dd9400", "success": 1, "ts": 7157982}
+2022-11-10 18:03:29.542	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "681dd9400", "success": 1, "streamId": "35c81c1a-819a-4d28-b9f4-0d14a863553c", "ts": 53388}
+2022-11-10 18:03:29.597	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "005d8f170", "success": 1, "streamId": "2d78beda-e38b-45f1-8c81-ab102cb30f0f", "ts": 261819}
+2022-11-10 18:03:29.623	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "37783e600", "success": 1, "streamId": "66474e57-eb17-4ccb-b6f2-8a8146972993", "ts": 178672}
+2022-11-10 18:03:29.638	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f8a3a7f00", "success": 1, "streamId": "ded657ef-6490-4f6b-affd-3a732beb8543", "ts": 370382}
+2022-11-10 18:03:29.679	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e76bbee30", "success": 1, "streamId": "d7a9010b-ab5f-4f69-ac05-5196440d4d00", "ts": 738932}
+2022-11-10 18:03:29.831	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "aa6762bc0", "success": 1, "streamId": "6f1208b3-7ce4-4b29-aff3-fdf8fa0e86b3", "ts": 365313}
+2022-11-10 18:03:29.910	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7cf14af50", "success": 1, "ts": 7510147}
+2022-11-10 18:03:29.965	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c70e8e470", "success": 1, "ts": 7357868}
+2022-11-10 18:03:29.970	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7cf14af50", "success": 1, "streamId": "5e5bc6d2-059c-46c5-9c6b-05b9e3569344", "ts": 57765}
+2022-11-10 18:03:30.073	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1714c5280", "success": 1, "ts": 7484186}
+2022-11-10 18:03:30.223	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c70e8e470", "success": 1, "streamId": "f7d9559b-cd39-4be4-9f9e-48cae399b962", "ts": 256011}
+2022-11-10 18:03:30.382	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7ffdc42e0", "success": 1, "ts": 7882506}
+2022-11-10 18:03:30.496	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1714c5280", "success": 1, "streamId": "5978653f-d52b-4d8b-a13d-232fd2f33d62", "ts": 419200}
+2022-11-10 18:03:30.665	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5f67fdf60", "success": 1, "ts": 8251222}
+2022-11-10 18:03:30.668	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "741ec73f0", "success": 1, "ts": 8167163}
+2022-11-10 18:03:30.747	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "38f985df0", "success": 1, "ts": 8187559}
+2022-11-10 18:03:30.783	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7ffdc42e0", "success": 1, "streamId": "6cdd0571-59ba-47da-a0dc-acf248ee58ae", "ts": 399027}
+2022-11-10 18:03:30.790	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "38f985df0", "success": 1, "streamId": "c5067c1d-7542-4c69-bf5a-14bd97dda4e0", "ts": 41256}
+2022-11-10 18:03:30.910	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "43cfe0c30", "success": 1, "ts": 8397471}
+2022-11-10 18:03:30.967	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5f67fdf60", "success": 1, "streamId": "b6abc9ca-6869-4fa1-9aba-606c1e9bdffa", "ts": 299573}
+2022-11-10 18:03:30.986	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "741ec73f0", "success": 1, "streamId": "a806dbe0-1768-43b5-8f3f-fd3ac4519ca5", "ts": 315556}
+2022-11-10 18:03:31.083	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d0fe07300", "success": 1, "ts": 8404398}
+2022-11-10 18:03:31.546	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d0fe07300", "success": 1, "streamId": "0d1eea1c-b607-4c6b-975d-0bde7989628d", "ts": 461013}
+2022-11-10 18:03:31.550	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "43cfe0c30", "success": 1, "streamId": "b620e6a4-fa1a-4457-bafb-0a9addad6325", "ts": 638023}
+2022-11-10 18:03:31.730	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "426c0b2c0", "success": 1, "ts": 9372539}
+2022-11-10 18:03:31.785	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "eea0dc250", "success": 1, "ts": 9139227}
+2022-11-10 18:03:31.809	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "79265c180", "success": 1, "ts": 9309254}
+2022-11-10 18:03:31.818	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4909def30", "success": 1, "ts": 9210321}
+2022-11-10 18:03:32.045	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4909def30", "success": 1, "streamId": "e151f715-3db9-4baa-a928-987f06b0588e", "ts": 223489}
+2022-11-10 18:03:32.072	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "426c0b2c0", "success": 1, "streamId": "6012bff1-f2a6-49f9-92aa-005142d1cfa7", "ts": 338824}
+2022-11-10 18:03:32.305	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "79265c180", "success": 1, "streamId": "c1976f30-4bcc-4eb6-b6ca-dbe29f6c7b86", "ts": 490329}
+2022-11-10 18:03:32.429	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "eea0dc250", "success": 1, "streamId": "7fbd3da2-3819-4d1a-8078-aa1d3c179e06", "ts": 641472}
+2022-11-10 18:03:17.997	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "aea77c400", "success": 1, "ts": 13442}
+2022-11-10 18:03:18.004	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "23c9cf830", "success": 1, "ts": 21534}
+2022-11-10 18:03:18.032	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "62adb9f80", "success": 1, "ts": 43411}
+2022-11-10 18:03:18.056	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3c182d410", "success": 1, "ts": 49029}
+2022-11-10 18:03:18.063	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "aea77c400", "success": 1, "streamId": "c907b3b5-385a-4ad1-8b93-75d7d666f879", "ts": 52880}
+2022-11-10 18:03:18.089	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "62adb9f80", "success": 1, "streamId": "4f84a3b6-f491-4385-b807-510f57bd6372", "ts": 55042}
+2022-11-10 18:03:18.106	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "fad505a30", "success": 1, "ts": 123228}
+2022-11-10 18:03:18.118	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "993e958e0", "success": 1, "ts": 132935}
+2022-11-10 18:03:18.126	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "bb09ce830", "success": 1, "ts": 142573}
+2022-11-10 18:03:18.146	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b5e5fb800", "success": 1, "ts": 163420}
+2022-11-10 18:03:18.222	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "bb09ce830", "success": 1, "streamId": "8920dfa5-8b4b-4df2-a51e-2cff8ebd00a4", "ts": 94277}
+2022-11-10 18:03:18.228	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "23c9cf830", "success": 1, "streamId": "82a69078-077f-411f-a7dc-7dd4b3edc33e", "ts": 218301}
+2022-11-10 18:03:18.243	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d7fb27a10", "success": 1, "ts": 107913}
+2022-11-10 18:03:18.256	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1be4094e0", "success": 1, "ts": 146450}
+2022-11-10 18:03:18.258	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b32295e30", "success": 1, "ts": 265443}
+2022-11-10 18:03:18.289	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "fad505a30", "success": 1, "streamId": "fbc02f37-9dee-4ec5-9959-515ce8048efb", "ts": 181349}
+2022-11-10 18:03:18.297	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "993e958e0", "success": 1, "streamId": "8abc095a-fb68-4ba9-9765-453dc663482f", "ts": 176907}
+2022-11-10 18:03:18.331	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3c182d410", "success": 1, "streamId": "6e41d8f2-d12d-468c-98cc-d55717b2edef", "ts": 272689}
+2022-11-10 18:03:18.344	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1be4094e0", "success": 1, "streamId": "10a96dc3-7c34-45be-8104-26fa5a5c10aa", "ts": 85853}
+2022-11-10 18:03:18.357	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a6d182cf0", "success": 1, "ts": 349875}
+2022-11-10 18:03:18.426	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e0eea20b0", "success": 1, "ts": 255993}
+2022-11-10 18:03:18.484	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "308e82110", "success": 1, "ts": 488589}
+2022-11-10 18:03:18.535	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "58bbe6bc0", "success": 1, "ts": 245530}
+2022-11-10 18:03:18.563	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "feacc1270", "success": 1, "ts": 321784}
+2022-11-10 18:03:18.569	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e0eea20b0", "success": 1, "streamId": "5f365c52-65d3-41d1-b4c4-1ddb81497b07", "ts": 139435}
+2022-11-10 18:03:18.591	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8fa8339e0", "success": 1, "ts": 536014}
+2022-11-10 18:03:18.610	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "713bf1650", "success": 1, "ts": 604320}
+2022-11-10 18:03:18.610	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5620b25d0", "success": 1, "ts": 597082}
+2022-11-10 18:03:18.633	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d1d593260", "success": 1, "ts": 420810}
+2022-11-10 18:03:18.670	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e9c5ec400", "success": 1, "ts": 676767}
+2022-11-10 18:03:18.761	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "81b00b2a0", "success": 1, "ts": 727717}
+2022-11-10 18:03:18.793	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a1cd89670", "success": 1, "ts": 481093}
+2022-11-10 18:03:18.843	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "73033d7d0", "success": 1, "ts": 782504}
+2022-11-10 18:03:18.845	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "93852c540", "success": 1, "ts": 826194}
+2022-11-10 18:03:18.859	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1cdb002b0", "success": 1, "ts": 846775}
+2022-11-10 18:03:18.879	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0fc4cb260", "success": 1, "ts": 796930}
+2022-11-10 18:03:18.881	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "52caebbd0", "success": 1, "ts": 800674}
+2022-11-10 18:03:18.898	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d7fb27a10", "success": 1, "streamId": "21bb3c25-d75f-422e-94cb-f426c7e163a9", "ts": 653603}
+2022-11-10 18:03:18.904	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "9f74c4010", "success": 1, "ts": 678764}
+2022-11-10 18:03:18.905	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4fb3ecbb0", "success": 1, "ts": 800581}
+2022-11-10 18:03:18.944	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a6d182cf0", "success": 1, "streamId": "d987d780-41e9-45f2-b86c-421f19f3816e", "ts": 584837}
+2022-11-10 18:03:19.009	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "412674c60", "success": 1, "ts": 683144}
+2022-11-10 18:03:19.009	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "feacc1270", "success": 1, "streamId": "f8d14003-46d4-4e72-b441-8cf76f9761c1", "ts": 444903}
+2022-11-10 18:03:19.024	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "58bbe6bc0", "success": 1, "streamId": "cfd07a52-8a11-4153-832d-e80e7907647e", "ts": 487777}
+2022-11-10 18:03:19.035	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "63e8c16d0", "success": 1, "ts": 1005446}
+2022-11-10 18:03:19.068	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8b9c93b90", "success": 1, "ts": 664779}
+2022-11-10 18:03:19.084	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b5e5fb800", "success": 1, "streamId": "7840be3e-c08b-414a-aefd-fcc697f04c95", "ts": 935831}
+2022-11-10 18:03:19.095	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e9c5ec400", "success": 1, "streamId": "55b618fa-e60e-4df4-809b-3167de5ea66c", "ts": 422994}
+2022-11-10 18:03:19.099	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b32295e30", "success": 1, "streamId": "55a995e5-fa24-47d0-ab30-f2defbc6bf39", "ts": 831528}
+2022-11-10 18:03:19.124	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8fa8339e0", "success": 1, "streamId": "2e38ffd5-e219-4fa4-9acb-1b166c99ed26", "ts": 531598}
+2022-11-10 18:03:19.128	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "308e82110", "success": 1, "streamId": "634d6840-b2fb-4d4d-b44b-1b470bd33736", "ts": 640970}
+2022-11-10 18:03:19.157	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "bce2d7ac0", "success": 1, "ts": 1124644}
+2022-11-10 18:03:19.174	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5620b25d0", "success": 1, "streamId": "f0ab93eb-3efa-44e1-95ac-0afbaa4c71e3", "ts": 552122}
+2022-11-10 18:03:19.177	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "713bf1650", "success": 1, "streamId": "fb720ffa-8bec-435e-90ca-3ec8ea5cc892", "ts": 563318}
+2022-11-10 18:03:19.261	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "99adf3ec0", "success": 1, "ts": 1178289}
+2022-11-10 18:03:19.291	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "81b00b2a0", "success": 1, "streamId": "7d6e9afa-0301-4246-8e4b-592ff01df819", "ts": 528148}
+2022-11-10 18:03:19.300	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a1cd89670", "success": 1, "streamId": "0ca48332-4ade-41bc-b296-71f6af6641f8", "ts": 505408}
+2022-11-10 18:03:19.322	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0fc4cb260", "success": 1, "streamId": "4ea0ee01-a244-4f8c-a18c-b412d3e9985d", "ts": 440442}
+2022-11-10 18:03:19.325	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5751bbc60", "success": 1, "ts": 870672}
+2022-11-10 18:03:19.332	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0d178b1f0", "success": 1, "ts": 1279643}
+2022-11-10 18:03:19.358	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "73033d7d0", "success": 1, "streamId": "9700a08d-cc59-4414-97ce-a6d709c5bf52", "ts": 513524}
+2022-11-10 18:03:19.369	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "9f5468fe0", "success": 1, "ts": 988385}
+2022-11-10 18:03:19.393	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0b0a72d40", "success": 1, "ts": 1336113}
+2022-11-10 18:03:19.485	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4fb3ecbb0", "success": 1, "streamId": "dc7573f6-2ead-4d25-81ba-e807718e0c80", "ts": 579320}
+2022-11-10 18:03:19.603	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1cdb002b0", "success": 1, "streamId": "4a05ac38-81e7-4abc-a0fb-cd971a457f11", "ts": 732800}
+2022-11-10 18:03:19.603	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "52caebbd0", "success": 1, "streamId": "7182d27c-e409-437d-ab01-e0218ef324c6", "ts": 718182}
+2022-11-10 18:03:19.609	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6365f8a90", "success": 1, "ts": 1549309}
+2022-11-10 18:03:19.619	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1a293b750", "success": 1, "ts": 1353092}
+2022-11-10 18:03:19.641	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e6120a1e0", "success": 1, "ts": 1441813}
+2022-11-10 18:03:19.656	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2f9d4b1b0", "success": 1, "ts": 1179651}
+2022-11-10 18:03:19.691	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "63e8c16d0", "success": 1, "streamId": "28236d63-96ec-4c41-809a-312d8f386fa7", "ts": 653458}
+2022-11-10 18:03:19.691	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "bce2d7ac0", "success": 1, "streamId": "ac577e7f-f814-4907-ba3e-61b9104041cf", "ts": 529834}
+2022-11-10 18:03:19.717	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1a293b750", "success": 1, "streamId": "a85080cc-0c86-4ea5-8075-209788a0ece5", "ts": 96499}
+2022-11-10 18:03:19.726	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2b1b86080", "success": 1, "ts": 1540508}
+2022-11-10 18:03:19.757	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0d178b1f0", "success": 1, "streamId": "23e45b4e-90c4-4c29-9817-ac20b64260f7", "ts": 422844}
+2022-11-10 18:03:19.757	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8b9c93b90", "success": 1, "streamId": "9a94260a-7b9a-4ec0-b0d4-1db9f125167a", "ts": 687679}
+2022-11-10 18:03:19.776	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7b9414c20", "success": 1, "ts": 1274709}
+2022-11-10 18:03:19.777	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5751bbc60", "success": 1, "streamId": "b0bd7483-459c-429d-83e7-2f9138e3992d", "ts": 450016}
+2022-11-10 18:03:19.803	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d1d593260", "success": 1, "streamId": "ba64ea40-1f73-48d7-8f1c-c18617506c2a", "ts": 1168827}
+2022-11-10 18:03:19.813	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "93852c540", "success": 1, "streamId": "82ad73d4-0b4c-42c9-a88c-c6909df3cb63", "ts": 961841}
+2022-11-10 18:03:19.828	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7b9414c20", "success": 1, "streamId": "405641f4-819e-48f9-b42c-b77b69a2767b", "ts": 50796}
+2022-11-10 18:03:19.849	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2867f2920", "success": 1, "ts": 1763636}
+2022-11-10 18:03:19.887	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "99adf3ec0", "success": 1, "streamId": "d6e88252-f5a2-43d1-8e55-231398082725", "ts": 624208}
+2022-11-10 18:03:19.897	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2f9d4b1b0", "success": 1, "streamId": "ebcea7e9-4746-4fe8-971b-8331d37edb05", "ts": 238817}
+2022-11-10 18:03:19.897	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "dcda55fd0", "success": 1, "ts": 1794461}
+2022-11-10 18:03:19.903	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "bff143260", "success": 1, "ts": 1520741}
+2022-11-10 18:03:19.993	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6a5cd53b0", "success": 1, "ts": 1627168}
+2022-11-10 18:03:20.019	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8509741b0", "success": 1, "ts": 1759698}
+2022-11-10 18:03:20.066	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8509741b0", "success": 1, "streamId": "b17e05db-9d3c-4fb9-8b45-ac876c734062", "ts": 45389}
+2022-11-10 18:03:20.085	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0b0a72d40", "success": 1, "streamId": "8eeb01c7-f556-4e41-bb4b-cdefad38b314", "ts": 690387}
+2022-11-10 18:03:20.110	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "af3bffc50", "success": 1, "ts": 1738754}
+2022-11-10 18:03:20.112	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2867f2920", "success": 1, "streamId": "452298d7-128b-458a-8201-f29ce6009bd7", "ts": 261556}
+2022-11-10 18:03:20.119	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "863392a20", "success": 1, "ts": 1668486}
+2022-11-10 18:03:20.123	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "46f0fbed0", "success": 1, "ts": 2015716}
+2022-11-10 18:03:20.132	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7d3b8ee40", "success": 1, "ts": 2023454}
+2022-11-10 18:03:20.167	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "46f0fbed0", "success": 1, "streamId": "f74709e2-08be-4bfd-a0d5-e8a69c67560d", "ts": 41817}
+2022-11-10 18:03:20.184	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "852539ed0", "success": 1, "ts": 2052072}
+2022-11-10 18:03:20.213	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2b1b86080", "success": 1, "streamId": "cfea90a8-d4cf-4c8c-a13e-ad8e884325f0", "ts": 485719}
+2022-11-10 18:03:20.222	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e6120a1e0", "success": 1, "streamId": "ef45a9a8-53e0-42fd-b4cc-62d92432e875", "ts": 579098}
+2022-11-10 18:03:20.222	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "dcda55fd0", "success": 1, "streamId": "b5c23b31-988f-443e-bf47-191abcd7c9a1", "ts": 324043}
+2022-11-10 18:03:20.306	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b9cb557d0", "success": 1, "ts": 2017177}
+2022-11-10 18:03:20.334	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6f3b36960", "success": 1, "ts": 1868361}
+2022-11-10 18:03:20.339	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b9cb557d0", "success": 1, "streamId": "ca422ef1-d24f-47a1-abbc-a00548ae2662", "ts": 31566}
+2022-11-10 18:03:20.363	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "412674c60", "success": 1, "streamId": "5ac176a5-33e5-44d8-bc9d-909f7bc3a709", "ts": 1352360}
+2022-11-10 18:03:20.583	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "dec9f2b50", "success": 1, "ts": 2180309}
+2022-11-10 18:03:20.722	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "852539ed0", "success": 1, "streamId": "bb2169e5-b8e3-406f-b2d5-529106b8fc32", "ts": 536371}
+2022-11-10 18:03:20.733	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6365f8a90", "success": 1, "streamId": "d9f0dc0f-d86c-4c1b-a536-75071f887c54", "ts": 1122648}
+2022-11-10 18:03:20.740	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "45ccd8040", "success": 1, "ts": 2699681}
+2022-11-10 18:03:20.883	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "dec9f2b50", "success": 1, "streamId": "29d153ae-d0c2-4d2c-87ce-51d01c742148", "ts": 298413}
+2022-11-10 18:03:20.909	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7d3b8ee40", "success": 1, "streamId": "a8c19a12-373e-41ec-936e-554f80e64fca", "ts": 756223}
+2022-11-10 18:03:20.924	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "af3bffc50", "success": 1, "streamId": "7cfc4b02-9e41-44bd-9add-cfbcc336882d", "ts": 812050}
+2022-11-10 18:03:20.986	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c30a23580", "success": 1, "ts": 2948096}
+2022-11-10 18:03:21.026	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "9f74c4010", "success": 1, "streamId": "6ab18cbd-c652-42fe-a2f8-1d67290f03f8", "ts": 2120013}
+2022-11-10 18:03:21.026	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "9f5468fe0", "success": 1, "streamId": "a9ed5eb8-d6f8-464a-92fd-545d40344008", "ts": 1655358}
+2022-11-10 18:03:21.085	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7907cf510", "success": 1, "ts": 2684390}
+2022-11-10 18:03:21.131	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "471d36410", "success": 1, "ts": 2992920}
+2022-11-10 18:03:21.155	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "bff143260", "success": 1, "streamId": "3558f1df-7f64-43f4-8a79-62b9888239b9", "ts": 1238312}
+2022-11-10 18:03:21.201	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6a5cd53b0", "success": 1, "streamId": "e9b874fd-8ba0-4f0a-9026-c2d084485573", "ts": 1206540}
+2022-11-10 18:03:21.251	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "863392a20", "success": 1, "streamId": "1ef87b6c-baea-4bba-9a7e-006b6cddfd2c", "ts": 1130688}
+2022-11-10 18:03:21.267	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3fd7b3950", "success": 1, "ts": 3077577}
+2022-11-10 18:03:21.292	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c30a23580", "success": 1, "streamId": "3a454f0d-b41b-4df5-8828-a12c349f4743", "ts": 304467}
+2022-11-10 18:03:21.309	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7907cf510", "success": 1, "streamId": "2adc4e30-4a72-4538-ac96-69822dfb5340", "ts": 222862}
+2022-11-10 18:03:21.353	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "77e6bcce0", "success": 1, "ts": 3139349}
+2022-11-10 18:03:21.381	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6f3b36960", "success": 1, "streamId": "194c6b87-cb77-493e-8c9b-554cb25c1b40", "ts": 1045152}
+2022-11-10 18:03:21.439	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b69c39160", "success": 1, "ts": 3038458}
+2022-11-10 18:03:21.442	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3fd7b3950", "success": 1, "streamId": "191da352-8d68-4e03-a0de-633e775b02c8", "ts": 173340}
+2022-11-10 18:03:21.507	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "45ccd8040", "success": 1, "streamId": "825d09c4-1ec1-4f96-a24d-3795b8a315d2", "ts": 765872}
+2022-11-10 18:03:21.543	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7033a20d0", "success": 1, "ts": 3439413}
+2022-11-10 18:03:21.559	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "471d36410", "success": 1, "streamId": "15cb5031-75d4-4725-9b49-e35c1ede9bc1", "ts": 426582}
+2022-11-10 18:03:21.569	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7d8a71050", "success": 1, "ts": 3401452}
+2022-11-10 18:03:21.667	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "fcd4cf5b0", "success": 1, "ts": 3427246}
+2022-11-10 18:03:21.710	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8afb5c930", "success": 1, "ts": 3372553}
+2022-11-10 18:03:21.736	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "59a775a70", "success": 1, "ts": 3521334}
+2022-11-10 18:03:21.759	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c2c6f1340", "success": 1, "ts": 3390405}
+2022-11-10 18:03:21.779	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8afb5c930", "success": 1, "streamId": "b4ab780f-eeff-4092-b847-420805c106ca", "ts": 67412}
+2022-11-10 18:03:21.779	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7d8a71050", "success": 1, "streamId": "17efe03b-e4bf-4541-905d-fef753c28c28", "ts": 208771}
+2022-11-10 18:03:21.783	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f4991a0f0", "success": 1, "ts": 3691476}
+2022-11-10 18:03:21.898	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c2c6f1340", "success": 1, "streamId": "27b6e2c0-bccb-42de-bae3-627ac6a64acf", "ts": 135794}
+2022-11-10 18:03:21.916	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b69c39160", "success": 1, "streamId": "b3562969-9071-428f-92c2-38469f6015fa", "ts": 475763}
+2022-11-10 18:03:21.937	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b8c453a90", "success": 1, "ts": 3669028}
+2022-11-10 18:03:21.993	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "77e6bcce0", "success": 1, "streamId": "8c26aff1-7e69-4a05-ba73-6ac61feef580", "ts": 638141}
+2022-11-10 18:03:22.000	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7033a20d0", "success": 1, "streamId": "685edf54-4dbc-42c6-82c7-3bae502112ee", "ts": 447043}
+2022-11-10 18:03:22.021	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6ac2f42f0", "success": 1, "ts": 3681728}
+2022-11-10 18:03:22.048	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "fcd4cf5b0", "success": 1, "streamId": "fd95403b-f187-42fa-86bb-a80ac09f66c6", "ts": 379728}
+2022-11-10 18:03:22.070	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "fb4d74690", "success": 1, "ts": 3843417}
+2022-11-10 18:03:22.105	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f4991a0f0", "success": 1, "streamId": "e408ed0e-07ba-427e-90dc-6335de81ccfa", "ts": 321186}
+2022-11-10 18:03:22.123	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b8c453a90", "success": 1, "streamId": "772ed602-fce1-41df-8410-6359cc0d63bf", "ts": 185084}
+2022-11-10 18:03:22.130	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a50434360", "success": 1, "ts": 3806926}
+2022-11-10 18:03:22.141	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3f563ad30", "success": 1, "ts": 3687002}
+2022-11-10 18:03:22.178	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "cca403dd0", "success": 1, "ts": 3921648}
+2022-11-10 18:03:22.264	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "59a775a70", "success": 1, "streamId": "284509bb-61fb-4392-b5e9-01d463258875", "ts": 505016}
+2022-11-10 18:03:22.343	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6ac2f42f0", "success": 1, "streamId": "ac3f5198-8c1d-4fe9-aea0-63b2016a9f19", "ts": 320747}
+2022-11-10 18:03:22.395	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a08a6d770", "success": 1, "ts": 3939524}
+2022-11-10 18:03:22.443	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "cca403dd0", "success": 1, "streamId": "1edaa7ee-19cb-4f67-8170-137987173e95", "ts": 263453}
+2022-11-10 18:03:22.474	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "fb4d74690", "success": 1, "streamId": "4e24abf6-9dbc-4928-9f9b-e1ca87410896", "ts": 402206}
+2022-11-10 18:03:22.486	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a08a6d770", "success": 1, "streamId": "6e2e436d-079b-4363-9448-ad82c0e81284", "ts": 89504}
+2022-11-10 18:03:22.489	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "72d84b7f0", "success": 1, "ts": 4273644}
+2022-11-10 18:03:22.521	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a50434360", "success": 1, "streamId": "c42c311d-2adf-475d-a38f-6b381e9646e5", "ts": 390082}
+2022-11-10 18:03:22.534	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "72d84b7f0", "success": 1, "streamId": "bd8ebe05-5b78-4bb9-9ced-9387fcb15d36", "ts": 43989}
+2022-11-10 18:03:22.715	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3f563ad30", "success": 1, "streamId": "9574a3d2-fba1-4247-bbb9-2ddd0ee61af0", "ts": 572623}
+2022-11-10 18:03:22.791	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7b3784e70", "success": 1, "ts": 4453931}
+2022-11-10 18:03:22.956	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b2ac6f680", "success": 1, "ts": 4714364}
+2022-11-10 18:03:22.993	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5e4828ee0", "success": 1, "ts": 4704033}
+2022-11-10 18:03:23.020	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2ad0d4860", "success": 1, "ts": 4866801}
+2022-11-10 18:03:23.088	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "46a443930", "success": 1, "ts": 4814348}
+2022-11-10 18:03:23.088	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f8bb68550", "success": 1, "ts": 4844984}
+2022-11-10 18:03:23.090	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5e4828ee0", "success": 1, "streamId": "cd41a04e-e906-42b1-b772-ce78ca93e16f", "ts": 93982}
+2022-11-10 18:03:23.090	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2ad0d4860", "success": 1, "streamId": "2f2982b5-9fdc-4938-b9fd-e7754513553b", "ts": 68782}
+2022-11-10 18:03:23.093	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b2ac6f680", "success": 1, "streamId": "79f08f0d-9fb1-40ee-bc83-6266b5f3c3d2", "ts": 126705}
+2022-11-10 18:03:23.124	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7b3784e70", "success": 1, "streamId": "090ef88b-5e97-4608-ad13-f39f783ea276", "ts": 330739}
+2022-11-10 18:03:23.127	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f8bb68550", "success": 1, "streamId": "b4dc52bd-bb1a-4dd7-b40a-048210d01f06", "ts": 37672}
+2022-11-10 18:03:23.140	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0ba7afd70", "success": 1, "ts": 4835014}
+2022-11-10 18:03:23.426	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4233fa960", "success": 1, "ts": 5027503}
+2022-11-10 18:03:23.590	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "84f781c20", "success": 1, "ts": 5230007}
+2022-11-10 18:03:23.599	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "46a443930", "success": 1, "streamId": "d640a064-82f8-4dec-98db-2f53ebfae16e", "ts": 509279}
+2022-11-10 18:03:23.615	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0ba7afd70", "success": 1, "streamId": "af0be90b-fe68-4643-994a-4c15c9113905", "ts": 473710}
+2022-11-10 18:03:23.699	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "265bda970", "success": 1, "ts": 5221667}
+2022-11-10 18:03:23.728	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6b0456f60", "success": 1, "ts": 5482982}
+2022-11-10 18:03:23.741	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4233fa960", "success": 1, "streamId": "9aebe69e-0569-4a46-bb6d-4698ea278185", "ts": 313653}
+2022-11-10 18:03:23.972	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "84f781c20", "success": 1, "streamId": "42e0f700-71dc-441d-b0e8-e2322864eeae", "ts": 381173}
+2022-11-10 18:03:24.000	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "cce4c2dc0", "success": 1, "ts": 5624601}
+2022-11-10 18:03:24.081	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c0717aeb0", "success": 1, "ts": 5625714}
+2022-11-10 18:03:24.082	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "bb4f9a320", "success": 1, "ts": 5568812}
+2022-11-10 18:03:24.094	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4e4328d80", "success": 1, "ts": 5836007}
+2022-11-10 18:03:24.127	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "815af88a0", "success": 1, "ts": 5789611}
+2022-11-10 18:03:24.151	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6b0456f60", "success": 1, "streamId": "6ae664fd-8a60-4c9b-87c0-4ed0d53715b8", "ts": 420749}
+2022-11-10 18:03:24.161	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "af2626c00", "success": 1, "ts": 5920935}
+2022-11-10 18:03:24.174	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "815af88a0", "success": 1, "streamId": "9524f852-4481-45d8-a679-9ba66c21ca73", "ts": 44899}
+2022-11-10 18:03:24.202	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "265bda970", "success": 1, "streamId": "978eeaee-4468-4c24-a72d-94f18a0bb4f5", "ts": 502104}
+2022-11-10 18:03:24.287	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "593bacef0", "success": 1, "ts": 6033900}
+2022-11-10 18:03:24.336	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c0717aeb0", "success": 1, "streamId": "6b501079-012f-46db-ba10-78007edc9329", "ts": 243758}
+2022-11-10 18:03:24.376	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "307ec6d20", "success": 1, "ts": 6242324}
+2022-11-10 18:03:24.489	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "bb4f9a320", "success": 1, "streamId": "844adc8a-0cac-4a43-b38b-384c6908c602", "ts": 393639}
+2022-11-10 18:03:24.514	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "cce4c2dc0", "success": 1, "streamId": "6637712f-0dac-434d-bd65-77f3a8b95bc4", "ts": 512859}
+2022-11-10 18:03:24.560	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4e4328d80", "success": 1, "streamId": "560a4564-2d48-4e55-88cb-ff8adf3f80ae", "ts": 464374}
+2022-11-10 18:03:24.567	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "307ec6d20", "success": 1, "streamId": "20f8ca82-b301-4c24-8095-a15c88d5aa02", "ts": 189353}
+2022-11-10 18:03:24.633	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c358098f0", "success": 1, "ts": 6213232}
+2022-11-10 18:03:24.639	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7ed358790", "success": 1, "ts": 6419703}
+2022-11-10 18:03:24.702	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7ed358790", "success": 1, "streamId": "ff49c100-c055-4eaf-be10-544842065ed6", "ts": 62364}
+2022-11-10 18:03:24.731	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2dca211d0", "success": 1, "ts": 6356495}
+2022-11-10 18:03:24.828	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2dca211d0", "success": 1, "streamId": "501300b8-4e09-4ca9-87aa-ca024aa6a437", "ts": 94101}
+2022-11-10 18:03:24.839	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "af2626c00", "success": 1, "streamId": "3627df95-3a7f-4974-ba14-28f90fcf2671", "ts": 677101}
+2022-11-10 18:03:24.893	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "593bacef0", "success": 1, "streamId": "675f2f91-e38c-4cb7-8ab0-89f8a8322632", "ts": 601078}
+2022-11-10 18:03:25.001	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c358098f0", "success": 1, "streamId": "1ea72afe-5d61-48fc-b832-79ce715d2814", "ts": 365383}
+2022-11-10 18:03:25.252	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f613d4c20", "success": 1, "ts": 6866772}
+2022-11-10 18:03:25.411	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "72e83ccf0", "success": 1, "ts": 6933355}
+2022-11-10 18:03:25.455	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e79a49c70", "success": 1, "ts": 6955680}
+2022-11-10 18:03:25.522	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0fd779ce0", "success": 1, "ts": 7044469}
+2022-11-10 18:03:25.820	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f613d4c20", "success": 1, "streamId": "8791cddf-5930-45ce-a4e4-e1d5201ac744", "ts": 566893}
+2022-11-10 18:03:25.865	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "ab2990ac0", "success": 1, "ts": 7505147}
+2022-11-10 18:03:25.874	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "94bb47ed0", "success": 1, "ts": 7416925}
+2022-11-10 18:03:25.899	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3e1807510", "success": 1, "ts": 7399590}
+2022-11-10 18:03:25.951	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0fd779ce0", "success": 1, "streamId": "fca95949-4b91-4024-b8a6-48e8565ed850", "ts": 426678}
+2022-11-10 18:03:25.952	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "72e83ccf0", "success": 1, "streamId": "a3ded134-4346-4726-8a8b-b33794f0bb2b", "ts": 538749}
+2022-11-10 18:03:26.015	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5369814f0", "success": 1, "ts": 7564940}
+2022-11-10 18:03:26.037	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e79a49c70", "success": 1, "streamId": "77815ecb-75b6-4e01-b025-8cde100c3e76", "ts": 573723}
+2022-11-10 18:03:26.050	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "94bb47ed0", "success": 1, "streamId": "616c0d2f-5fd0-4dfa-bd56-1c139d408e54", "ts": 174794}
+2022-11-10 18:03:26.110	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "451b624a0", "success": 1, "ts": 7663329}
+2022-11-10 18:03:26.147	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3de339b20", "success": 1, "ts": 7841009}
+2022-11-10 18:03:26.231	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3de339b20", "success": 1, "streamId": "f68026c6-5022-4b32-8c5f-fb99c6f7d674", "ts": 82621}
+2022-11-10 18:03:26.249	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2bda7bb50", "success": 1, "ts": 7909605}
+2022-11-10 18:03:26.382	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5369814f0", "success": 1, "streamId": "b6f1701e-d26c-4064-82b0-cb8352292827", "ts": 364820}
+2022-11-10 18:03:26.421	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2bda7bb50", "success": 1, "streamId": "17bd0259-ca36-4548-b27c-ddc503bd9735", "ts": 170326}
+2022-11-10 18:03:26.421	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f0ed7d990", "success": 1, "ts": 8061109}
+2022-11-10 18:03:26.560	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3b90a5bc0", "success": 1, "ts": 8060770}
+2022-11-10 18:03:26.598	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3e1807510", "success": 1, "streamId": "cb305d36-e580-415f-ac50-c19be901c6ad", "ts": 698086}
+2022-11-10 18:03:26.605	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "ab2990ac0", "success": 1, "streamId": "44819708-5950-453b-828f-e979dce9597c", "ts": 738549}
+2022-11-10 18:03:26.605	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "451b624a0", "success": 1, "streamId": "e1829b3f-c90b-4828-8abf-e0b29ae7a740", "ts": 493319}
+2022-11-10 18:03:26.825	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f0ed7d990", "success": 1, "streamId": "046bc908-1a7b-4bb6-a638-65d5d2b86cf5", "ts": 401574}
+2022-11-10 18:03:26.827	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3b90a5bc0", "success": 1, "streamId": "6fb63ef6-7aba-4e98-91e4-c81b337cba5b", "ts": 265050}
+2022-11-10 18:03:26.880	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8a2a32160", "success": 1, "ts": 8692111}
+2022-11-10 18:03:27.057	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "236284180", "success": 1, "ts": 8852013}
+2022-11-10 18:03:27.178	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8a2a32160", "success": 1, "streamId": "fb49a295-f325-4eaa-8fa5-571cc79eaf7a", "ts": 294966}
+2022-11-10 18:03:27.306	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "236284180", "success": 1, "streamId": "4e6104e5-3d00-497c-98ad-47f47510d292", "ts": 247190}
+2022-11-10 18:03:27.317	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "66ddfd0a0", "success": 1, "ts": 8897180}
+2022-11-10 18:03:27.478	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "66ddfd0a0", "success": 1, "streamId": "2246a889-aea1-4b5f-8303-5ccf54c1cbaf", "ts": 158639}
+2022-11-10 18:03:27.534	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2b81eed00", "success": 1, "ts": 9190764}
+2022-11-10 18:03:27.744	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2b81eed00", "success": 1, "streamId": "6c8977ec-2d32-4db1-9407-1e4ba27d2841", "ts": 208683}
+2022-11-10 18:03:27.937	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "251a1c400", "success": 1, "ts": 9400130}
+2022-11-10 18:03:28.654	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "251a1c400", "success": 1, "streamId": "55be1489-1a40-404c-a4db-a38cbc87d73c", "ts": 714747}
+2022-11-10 18:03:16.252	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "ffe2d8570", "success": 1, "ts": 21703}
+2022-11-10 18:03:16.256	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a9ef42770", "success": 1, "ts": 22636}
+2022-11-10 18:03:16.284	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1629d8410", "success": 1, "ts": 53352}
+2022-11-10 18:03:16.284	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "1bcb3c670", "success": 1, "ts": 40805}
+2022-11-10 18:03:16.290	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3d8a9e680", "success": 1, "ts": 58513}
+2022-11-10 18:03:16.315	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3254d04f0", "success": 1, "ts": 82683}
+2022-11-10 18:03:16.319	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "40eae1050", "success": 1, "ts": 56422}
+2022-11-10 18:03:16.325	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "cd62d7620", "success": 1, "ts": 92453}
+2022-11-10 18:03:16.341	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a8b08a9d0", "success": 1, "ts": 110747}
+2022-11-10 18:03:16.375	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "cb83e7ba0", "success": 1, "ts": 64599}
+2022-11-10 18:03:16.429	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c2dcd0b90", "success": 1, "ts": 111091}
+2022-11-10 18:03:16.443	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "bbdd7fbc0", "success": 1, "ts": 100211}
+2022-11-10 18:03:16.449	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "ef3ef2fa0", "success": 1, "ts": 112058}
+2022-11-10 18:03:16.458	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "52658d910", "success": 1, "ts": 227448}
+2022-11-10 18:03:16.459	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1bcb3c670", "success": 1, "streamId": "ce4c4bf7-ef46-4b28-b1b9-8d85915b8136", "ts": 172166}
+2022-11-10 18:03:16.470	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "cd62d7620", "success": 1, "streamId": "cd3abebe-32bc-4d07-b17f-e6b2a10b19cd", "ts": 142467}
+2022-11-10 18:03:16.479	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "73d379570", "success": 1, "ts": 128264}
+2022-11-10 18:03:16.489	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6c0accff0", "success": 1, "ts": 225725}
+2022-11-10 18:03:16.491	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e8ace70d0", "success": 1, "ts": 183606}
+2022-11-10 18:03:16.497	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "cb83e7ba0", "success": 1, "streamId": "3b9b3f46-bc99-412d-a7e2-f90b35b7ef72", "ts": 119697}
+2022-11-10 18:03:16.504	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3281b9ff0", "success": 1, "ts": 119996}
+2022-11-10 18:03:16.541	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3d8a9e680", "success": 1, "streamId": "d41fb773-c9c6-4893-ab72-59176b99a5ea", "ts": 247977}
+2022-11-10 18:03:16.544	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "40eae1050", "success": 1, "streamId": "1f95dc4c-6f4f-449a-b0d1-76c097f5131f", "ts": 218947}
+2022-11-10 18:03:16.547	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3254d04f0", "success": 1, "streamId": "e90cae23-d6ed-463d-9e2c-1e22585a6009", "ts": 230051}
+2022-11-10 18:03:16.548	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7730c1ea0", "success": 1, "ts": 238643}
+2022-11-10 18:03:16.551	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a8b08a9d0", "success": 1, "streamId": "e98b76a3-beb0-44a0-9b6c-70f5aa4ebca2", "ts": 208021}
+2022-11-10 18:03:16.575	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "ffe2d8570", "success": 1, "streamId": "1fc53bfe-9535-4505-a1e4-811331b8749c", "ts": 303952}
+2022-11-10 18:03:16.608	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "1629d8410", "success": 1, "streamId": "49253508-59d9-4205-8d7e-591d90266e51", "ts": 318945}
+2022-11-10 18:03:16.625	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "636571260", "success": 1, "ts": 222528}
+2022-11-10 18:03:16.642	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6da05f170", "success": 1, "ts": 349085}
+2022-11-10 18:03:16.684	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5b216c390", "success": 1, "ts": 190278}
+2022-11-10 18:03:16.703	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a9ef42770", "success": 1, "streamId": "d6ceffeb-802a-426b-99c3-f5292c03b1f2", "ts": 436450}
+2022-11-10 18:03:16.715	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c4acdb3f0", "success": 1, "ts": 482206}
+2022-11-10 18:03:16.735	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "ddacb1e30", "success": 1, "ts": 426251}
+2022-11-10 18:03:16.737	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "76069b730", "success": 1, "ts": 244257}
+2022-11-10 18:03:16.769	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a60f0ad80", "success": 1, "ts": 256443}
+2022-11-10 18:03:16.769	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6da05f170", "success": 1, "streamId": "0cfc6f23-824c-417e-bf6a-3c39899985ad", "ts": 125104}
+2022-11-10 18:03:16.778	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "550755580", "success": 1, "ts": 544248}
+2022-11-10 18:03:16.783	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "70c9e8f90", "success": 1, "ts": 311751}
+2022-11-10 18:03:16.798	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e3d9e7c40", "success": 1, "ts": 325692}
+2022-11-10 18:03:16.803	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c2dcd0b90", "success": 1, "streamId": "4188b585-3c24-4879-b438-f02e3f1d6626", "ts": 364820}
+2022-11-10 18:03:16.998	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4f343ef40", "success": 1, "ts": 734265}
+2022-11-10 18:03:17.004	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6c0accff0", "success": 1, "streamId": "5b8aeade-2658-47a6-b15c-f3408616356c", "ts": 512632}
+2022-11-10 18:03:17.009	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c78b64890", "success": 1, "ts": 504779}
+2022-11-10 18:03:17.042	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "ef3ef2fa0", "success": 1, "streamId": "9301243b-a7fb-44fd-b483-29cf0a9b8620", "ts": 590341}
+2022-11-10 18:03:17.063	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "52658d910", "success": 1, "streamId": "f4f72f1a-daed-4374-b95b-b81eb05552e0", "ts": 602924}
+2022-11-10 18:03:17.066	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d31d9b5e0", "success": 1, "ts": 804083}
+2022-11-10 18:03:17.068	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7730c1ea0", "success": 1, "streamId": "4a42012c-e317-461e-b1cf-3b2e44f7c5ee", "ts": 517493}
+2022-11-10 18:03:17.087	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d0257fec0", "success": 1, "ts": 491043}
+2022-11-10 18:03:17.110	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3281b9ff0", "success": 1, "streamId": "87a09551-a2bd-42d1-956e-2840b1f36917", "ts": 604104}
+2022-11-10 18:03:17.118	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4687ab360", "success": 1, "ts": 549628}
+2022-11-10 18:03:17.120	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "ddacb1e30", "success": 1, "streamId": "bc77a614-757e-4fdb-92c0-b7c93c00f7a0", "ts": 375262}
+2022-11-10 18:03:17.122	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "fa506bc70", "success": 1, "ts": 645706}
+2022-11-10 18:03:17.151	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b5c536320", "success": 1, "ts": 789550}
+2022-11-10 18:03:17.158	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "ccdb8a180", "success": 1, "ts": 564936}
+2022-11-10 18:03:17.187	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f6d1a0270", "success": 1, "ts": 510489}
+2022-11-10 18:03:17.202	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "73d379570", "success": 1, "streamId": "80b0ee7c-5c8d-4579-9cf0-0620a13f00cf", "ts": 719519}
+2022-11-10 18:03:17.208	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "796102310", "success": 1, "ts": 849798}
+2022-11-10 18:03:17.213	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "550755580", "success": 1, "streamId": "36c7f4ed-b1cc-40fc-bef8-a2e383dae60d", "ts": 433276}
+2022-11-10 18:03:17.214	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a60f0ad80", "success": 1, "streamId": "1db8c492-5081-4c59-a73f-43613d5f821b", "ts": 430849}
+2022-11-10 18:03:17.236	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "360d91940", "success": 1, "ts": 646117}
+2022-11-10 18:03:17.258	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b82dc0a50", "success": 1, "ts": 973041}
+2022-11-10 18:03:17.272	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "012804690", "success": 1, "ts": 667087}
+2022-11-10 18:03:17.300	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5b216c390", "success": 1, "streamId": "b5484ca0-787e-4fc5-8cd4-83517976e7b5", "ts": 613649}
+2022-11-10 18:03:17.323	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "76069b730", "success": 1, "streamId": "7835c335-48dc-4fad-a5b5-75d20726138a", "ts": 580338}
+2022-11-10 18:03:17.330	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "bbdd7fbc0", "success": 1, "streamId": "0c1a9a3e-1948-4315-991f-242e12685505", "ts": 884451}
+2022-11-10 18:03:17.345	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "636571260", "success": 1, "streamId": "937b317b-9c9f-4d13-b72e-fc41cbd65379", "ts": 718528}
+2022-11-10 18:03:17.347	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "edede0070", "success": 1, "ts": 1083336}
+2022-11-10 18:03:17.348	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4f343ef40", "success": 1, "streamId": "8fac8f74-b31b-43c5-b95b-757695e0bbb4", "ts": 347980}
+2022-11-10 18:03:17.349	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c4acdb3f0", "success": 1, "streamId": "4d3cdf05-cb23-403c-8971-6d06505f6da0", "ts": 632360}
+2022-11-10 18:03:17.381	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d6cd88d60", "success": 1, "ts": 1107158}
+2022-11-10 18:03:17.383	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e3d9e7c40", "success": 1, "streamId": "12bd391a-308e-4e1e-97fd-406a8d756228", "ts": 583132}
+2022-11-10 18:03:17.384	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "70c9e8f90", "success": 1, "streamId": "fd3662a1-fb0a-47ad-8a77-84dddbd11e95", "ts": 595561}
+2022-11-10 18:03:17.396	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d4bc000f0", "success": 1, "ts": 954497}
+2022-11-10 18:03:17.452	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c78b64890", "success": 1, "streamId": "21083994-f244-4f4d-b5b3-2eaf53bdc629", "ts": 441539}
+2022-11-10 18:03:17.455	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e8ace70d0", "success": 1, "streamId": "5df238fb-2aa0-44f1-84d9-d0f95aec080a", "ts": 962532}
+2022-11-10 18:03:17.501	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2d902ab50", "success": 1, "ts": 1192529}
+2022-11-10 18:03:17.545	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d31d9b5e0", "success": 1, "streamId": "d939684c-c7b2-4d72-bc6b-0d887610f991", "ts": 475022}
+2022-11-10 18:03:17.551	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4687ab360", "success": 1, "streamId": "c4a815ce-53c0-497e-818b-2883a238aeab", "ts": 430881}
+2022-11-10 18:03:17.565	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "71ac0a770", "success": 1, "ts": 1277762}
+2022-11-10 18:03:17.657	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "fac6d79b0", "success": 1, "ts": 1164474}
+2022-11-10 18:03:17.728	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "b4ac320d0", "success": 1, "ts": 1020915}
+2022-11-10 18:03:17.795	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d0257fec0", "success": 1, "streamId": "8dfb018a-9304-4602-b5a1-1b42be1d04f6", "ts": 706110}
+2022-11-10 18:03:17.795	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "ccdb8a180", "success": 1, "streamId": "56dd30f0-fd53-4b80-a21d-064dbe0f7a18", "ts": 634125}
+2022-11-10 18:03:17.840	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "796102310", "success": 1, "streamId": "dcda5c83-f387-46d3-9836-2379f878b14d", "ts": 630496}
+2022-11-10 18:03:17.934	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b82dc0a50", "success": 1, "streamId": "5706ff3a-277e-4772-8c59-106922b99d32", "ts": 674218}
+2022-11-10 18:03:17.940	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "f6f1fa2a0", "success": 1, "ts": 1346286}
+2022-11-10 18:03:17.963	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "71ac0a770", "success": 1, "streamId": "9fbf22d1-892e-471d-adad-5188f64078eb", "ts": 396007}
+2022-11-10 18:03:17.980	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5bb36b2c0", "success": 1, "ts": 1270986}
+2022-11-10 18:03:17.984	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f6d1a0270", "success": 1, "streamId": "91947539-8e82-42d9-95c0-0a50df430010", "ts": 780528}
+2022-11-10 18:03:18.049	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2d902ab50", "success": 1, "streamId": "b8ed942c-f8a8-4033-a6dd-150210546bad", "ts": 546244}
+2022-11-10 18:03:18.053	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5bb36b2c0", "success": 1, "streamId": "9db30ba6-64bc-416d-9311-51a5bf7bda95", "ts": 70880}
+2022-11-10 18:03:18.108	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b4ac320d0", "success": 1, "streamId": "69b1fbab-9d6d-4dd6-b26f-a2c6569b34ef", "ts": 378195}
+2022-11-10 18:03:18.177	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "b5c536320", "success": 1, "streamId": "305e1b27-4b2e-4dbd-a0aa-2f6192596cbf", "ts": 1023163}
+2022-11-10 18:03:18.207	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "fa506bc70", "success": 1, "streamId": "146fa6d1-3190-4214-931f-f3bf2803e300", "ts": 1082522}
+2022-11-10 18:03:18.208	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d4bc000f0", "success": 1, "streamId": "af0bd2f5-4a5f-4cc5-a62d-d43a7f0fafcc", "ts": 808254}
+2022-11-10 18:03:18.215	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "837067c90", "success": 1, "ts": 1906888}
+2022-11-10 18:03:18.248	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2f2391800", "success": 1, "ts": 1830282}
+2022-11-10 18:03:18.307	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "837067c90", "success": 1, "streamId": "98f0ac1a-1596-4253-b509-cf62753a4770", "ts": 90036}
+2022-11-10 18:03:18.312	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "18d2a4670", "success": 1, "ts": 1785112}
+2022-11-10 18:03:18.316	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2f2391800", "success": 1, "streamId": "a889c463-c118-4bcb-b04e-41dfcbdd9165", "ts": 66474}
+2022-11-10 18:03:18.341	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "fac6d79b0", "success": 1, "streamId": "aa38287a-1bf8-44a5-9942-b03c0aec0f3d", "ts": 682660}
+2022-11-10 18:03:18.345	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "89f0ad1f0", "success": 1, "ts": 1721427}
+2022-11-10 18:03:18.356	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "20f54f550", "success": 1, "ts": 1840642}
+2022-11-10 18:03:18.463	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "f6f1fa2a0", "success": 1, "streamId": "5d1a030a-2f54-4c88-aab2-33ac8201ffa3", "ts": 521432}
+2022-11-10 18:03:18.570	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d6cd88d60", "success": 1, "streamId": "1dfe459e-1a2f-4a7b-94b9-ceff79954365", "ts": 1187747}
+2022-11-10 18:03:18.600	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a3200c8b0", "success": 1, "ts": 1832561}
+2022-11-10 18:03:18.622	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "96219c330", "success": 1, "ts": 1971241}
+2022-11-10 18:03:18.662	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "eeb0d3e40", "success": 1, "ts": 2276743}
+2022-11-10 18:03:18.695	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "2086edab0", "success": 1, "ts": 1908914}
+2022-11-10 18:03:18.756	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "91017aee0", "success": 1, "ts": 2371020}
+2022-11-10 18:03:18.821	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e653e4240", "success": 1, "ts": 2329163}
+2022-11-10 18:03:18.830	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "012804690", "success": 1, "streamId": "28181722-336f-4c70-80a7-6936fb0995a9", "ts": 1556329}
+2022-11-10 18:03:18.861	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "581696a40", "success": 1, "ts": 2491369}
+2022-11-10 18:03:18.910	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d982faa70", "success": 1, "ts": 2263215}
+2022-11-10 18:03:18.914	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "89f0ad1f0", "success": 1, "streamId": "766209c2-cdca-445c-bb83-df2a983d6110", "ts": 566314}
+2022-11-10 18:03:18.915	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "256f1f240", "success": 1, "ts": 2217063}
+2022-11-10 18:03:18.948	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c7ad544b0", "success": 1, "ts": 2638150}
+2022-11-10 18:03:18.958	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "360d91940", "success": 1, "streamId": "eb573d90-fa18-45d2-aaaa-137f5615c0df", "ts": 1720345}
+2022-11-10 18:03:18.970	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "edede0070", "success": 1, "streamId": "67b526f9-3269-42e5-bee2-7122ce645d83", "ts": 1620894}
+2022-11-10 18:03:19.017	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a9f15e690", "success": 1, "ts": 2633257}
+2022-11-10 18:03:19.030	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "eeb0d3e40", "success": 1, "streamId": "bc7de16f-2193-4dc4-91f7-13b5aef1a48d", "ts": 367106}
+2022-11-10 18:03:19.088	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6cebcaba0", "success": 1, "ts": 2467943}
+2022-11-10 18:03:19.158	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "20f54f550", "success": 1, "streamId": "08ce844e-df35-4943-9d8c-31593f954989", "ts": 796676}
+2022-11-10 18:03:19.183	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "54c115ba0", "success": 1, "ts": 2800596}
+2022-11-10 18:03:19.228	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "91017aee0", "success": 1, "streamId": "ef23070e-d467-4217-9d99-dba4eed5c05b", "ts": 470356}
+2022-11-10 18:03:19.232	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4d9c297a0", "success": 1, "ts": 2637817}
+2022-11-10 18:03:19.274	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5d860f1b0", "success": 1, "ts": 2894164}
+2022-11-10 18:03:19.361	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e653e4240", "success": 1, "streamId": "92bd99e8-a6ca-4588-9bb5-a59197eb0b0b", "ts": 538577}
+2022-11-10 18:03:19.409	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "18d2a4670", "success": 1, "streamId": "44dd3a9b-83b0-490e-955a-811be26582f1", "ts": 1095760}
+2022-11-10 18:03:19.451	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "581696a40", "success": 1, "streamId": "efc58761-272a-4df4-8b83-6add833310e8", "ts": 587731}
+2022-11-10 18:03:19.451	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "96219c330", "success": 1, "streamId": "009ef867-043e-4b30-9944-16caec5b95c4", "ts": 827653}
+2022-11-10 18:03:19.451	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "256f1f240", "success": 1, "streamId": "2af8e43d-458e-4a8e-84d0-cbf9a707edbe", "ts": 529204}
+2022-11-10 18:03:19.501	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c7ad544b0", "success": 1, "streamId": "6f00fd31-0164-448b-b7e4-9c8fc6601f7a", "ts": 550263}
+2022-11-10 18:03:19.538	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6cebcaba0", "success": 1, "streamId": "7b5c0fab-0ed8-4372-92e2-92a51028b596", "ts": 448649}
+2022-11-10 18:03:19.540	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "5d2a36150", "success": 1, "ts": 3230308}
+2022-11-10 18:03:19.543	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5d860f1b0", "success": 1, "streamId": "624ebce6-aa45-4b03-80f2-a79eba2d0500", "ts": 266271}
+2022-11-10 18:03:19.544	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "2086edab0", "success": 1, "streamId": "535af5cd-6529-4c02-aa11-4f2796cf6858", "ts": 847185}
+2022-11-10 18:03:19.552	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d982faa70", "success": 1, "streamId": "56864dfb-6859-4e41-9ded-9179bd40b063", "ts": 640625}
+2022-11-10 18:03:19.553	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a9f15e690", "success": 1, "streamId": "af6eec46-655f-45d9-b9d4-7da61312a35c", "ts": 533789}
+2022-11-10 18:03:19.569	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "97d596be0", "success": 1, "ts": 3076582}
+2022-11-10 18:03:19.614	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "4fa91e0d0", "success": 1, "ts": 2968713}
+2022-11-10 18:03:19.656	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "54c115ba0", "success": 1, "streamId": "0416a0f7-ca2d-4595-b542-148c63c1cc36", "ts": 463243}
+2022-11-10 18:03:19.703	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4d9c297a0", "success": 1, "streamId": "87a8e849-63f4-456a-97ea-97f39f4c1853", "ts": 459315}
+2022-11-10 18:03:19.724	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a98b3fa70", "success": 1, "ts": 3157345}
+2022-11-10 18:03:19.744	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a98b3fa70", "success": 1, "streamId": "5c129f54-8b71-4cd5-bfec-eebb7edbf2f9", "ts": 18858}
+2022-11-10 18:03:19.774	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a3200c8b0", "success": 1, "streamId": "35c38501-7d10-49c3-9b1a-4628c24817c9", "ts": 1173043}
+2022-11-10 18:03:19.794	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "5d2a36150", "success": 1, "streamId": "a230c7bb-a4c2-4f40-ab6d-caaa0d1faedf", "ts": 251267}
+2022-11-10 18:03:19.826	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e1170c2a0", "success": 1, "ts": 3257542}
+2022-11-10 18:03:19.837	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e3d31d1b0", "success": 1, "ts": 3366805}
+2022-11-10 18:03:19.853	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "500780af0", "success": 1, "ts": 3305109}
+2022-11-10 18:03:19.958	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "500780af0", "success": 1, "streamId": "0c74d7a7-fbdb-4167-b8d4-391b09cb0a31", "ts": 103348}
+2022-11-10 18:03:20.084	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "cdeba6410", "success": 1, "ts": 3602149}
+2022-11-10 18:03:20.166	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "4fa91e0d0", "success": 1, "streamId": "b04589f9-7141-4918-bf3e-9eb47b54004e", "ts": 549542}
+2022-11-10 18:03:20.166	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e1170c2a0", "success": 1, "streamId": "42a6fcb0-9b04-4686-a5c0-9915db01b880", "ts": 337944}
+2022-11-10 18:03:20.265	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e3d31d1b0", "success": 1, "streamId": "e2a5471f-d357-47cf-8dbe-0114167cc63e", "ts": 426476}
+2022-11-10 18:03:20.293	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "432b7adc0", "success": 1, "ts": 3618935}
+2022-11-10 18:03:20.313	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "97d596be0", "success": 1, "streamId": "2741cba9-1b32-4388-82ed-85245ffe8a75", "ts": 742113}
+2022-11-10 18:03:20.343	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "cdeba6410", "success": 1, "streamId": "1b82f7b5-ea4b-470d-b838-927d6bfe5fdb", "ts": 257130}
+2022-11-10 18:03:20.347	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "09b1f1b60", "success": 1, "ts": 3876168}
+2022-11-10 18:03:20.393	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "51cd74100", "success": 1, "ts": 3897898}
+2022-11-10 18:03:20.547	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "432b7adc0", "success": 1, "streamId": "14411c07-7846-498e-b0b2-a6b2829e2f94", "ts": 244618}
+2022-11-10 18:03:20.586	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "09b1f1b60", "success": 1, "streamId": "45207e1a-e8dc-4203-a4a0-e623753f294f", "ts": 237272}
+2022-11-10 18:03:20.618	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "879a83f70", "success": 1, "ts": 3916099}
+2022-11-10 18:03:20.646	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "54061c740", "success": 1, "ts": 4116727}
+2022-11-10 18:03:20.682	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "51cd74100", "success": 1, "streamId": "84e54d2a-66bc-4930-951b-1bc48bd11ef8", "ts": 287076}
+2022-11-10 18:03:20.691	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3a61506e0", "success": 1, "ts": 4175262}
+2022-11-10 18:03:20.753	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "54061c740", "success": 1, "streamId": "d4090aea-7d12-4db6-9eff-c957c65ba971", "ts": 103971}
+2022-11-10 18:03:20.774	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e01745ea0", "success": 1, "ts": 4290111}
+2022-11-10 18:03:20.949	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "879a83f70", "success": 1, "streamId": "c0889b7d-82a0-4928-a8d5-83f810cff72f", "ts": 329681}
+2022-11-10 18:03:21.022	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "dd9636090", "success": 1, "ts": 4396938}
+2022-11-10 18:03:21.049	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8b0919fd0", "success": 1, "ts": 4576227}
+2022-11-10 18:03:21.068	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8b0919fd0", "success": 1, "streamId": "54e52cbb-4a8a-48e5-a2a7-9b87c841a194", "ts": 18105}
+2022-11-10 18:03:21.126	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "3ac46eaa0", "success": 1, "ts": 4721977}
+2022-11-10 18:03:21.129	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "553ea7e80", "success": 1, "ts": 4486725}
+2022-11-10 18:03:21.147	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3a61506e0", "success": 1, "streamId": "a193a994-408a-4dca-a6f5-f2475df0c165", "ts": 454020}
+2022-11-10 18:03:21.154	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "553ea7e80", "success": 1, "streamId": "4972f6d7-da17-4bac-8e73-ded99d7fb4a0", "ts": 23747}
+2022-11-10 18:03:21.175	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e01745ea0", "success": 1, "streamId": "7eeacc18-9c83-4bcf-b87a-f3b1bf8a9c5b", "ts": 397729}
+2022-11-10 18:03:21.178	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "84c97b710", "success": 1, "ts": 4610036}
+2022-11-10 18:03:21.319	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "044a89aa0", "success": 1, "ts": 4771857}
+2022-11-10 18:03:21.584	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "044a89aa0", "success": 1, "streamId": "b4a4b991-860e-414a-ae87-94f5375a6ab4", "ts": 263962}
+2022-11-10 18:03:21.764	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "3ac46eaa0", "success": 1, "streamId": "f2d21781-b6ea-4f84-8905-5b18f43def3e", "ts": 636134}
+2022-11-10 18:03:21.781	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "dd9636090", "success": 1, "streamId": "49a328bc-8352-4851-a01f-7010be039c78", "ts": 753489}
+2022-11-10 18:03:21.796	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0f238bb00", "success": 1, "ts": 5143664}
+2022-11-10 18:03:21.813	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "84c97b710", "success": 1, "streamId": "858fc918-eafe-48ec-9f73-9db3a5d1090b", "ts": 632602}
+2022-11-10 18:03:21.817	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0a4a6cc40", "success": 1, "ts": 5345194}
+2022-11-10 18:03:21.819	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0f238bb00", "success": 1, "streamId": "39e7cd0e-32e7-4034-9311-3dcf990622b8", "ts": 19402}
+2022-11-10 18:03:22.072	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d63dbd310", "success": 1, "ts": 5354474}
+2022-11-10 18:03:22.214	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "e4e6f70a0", "success": 1, "ts": 5742058}
+2022-11-10 18:03:22.244	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "e4e6f70a0", "success": 1, "streamId": "31085e0c-d9e9-4667-87e9-29a75217813e", "ts": 28308}
+2022-11-10 18:03:22.358	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d63dbd310", "success": 1, "streamId": "42de9bd8-4a66-4f3f-9634-97bd4f09ea40", "ts": 281248}
+2022-11-10 18:03:22.374	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0a4a6cc40", "success": 1, "streamId": "336aa71b-15ac-438a-b779-4d73744ba0f4", "ts": 555198}
+2022-11-10 18:03:22.469	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a17de3bb0", "success": 1, "ts": 5824888}
+2022-11-10 18:03:22.620	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "a17c57450", "success": 1, "ts": 6215505}
+2022-11-10 18:03:22.733	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a17de3bb0", "success": 1, "streamId": "5c06a84c-28f1-4bef-a1b6-ef0861c95c05", "ts": 257017}
+2022-11-10 18:03:22.778	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "259399790", "success": 1, "ts": 6308399}
+2022-11-10 18:03:22.885	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "a17c57450", "success": 1, "streamId": "b52c7ce8-b5fe-4315-8823-52479e33dc94", "ts": 262850}
+2022-11-10 18:03:22.902	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "11a8ef7d0", "success": 1, "ts": 6308102}
+2022-11-10 18:03:23.047	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "363601860", "success": 1, "ts": 6415806}
+2022-11-10 18:03:23.268	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "6d86d73f0", "success": 1, "ts": 6490908}
+2022-11-10 18:03:23.290	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "178b35460", "success": 1, "ts": 6841615}
+2022-11-10 18:03:23.344	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "259399790", "success": 1, "streamId": "4796ba62-bfc3-46d4-98df-c0c34fe8b8ed", "ts": 563861}
+2022-11-10 18:03:23.502	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "11a8ef7d0", "success": 1, "streamId": "47794bff-9972-44e8-8fbb-73b7abcf68e8", "ts": 598685}
+2022-11-10 18:03:23.563	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "178b35460", "success": 1, "streamId": "e4651121-552a-46bb-a8ab-7351e9c01620", "ts": 271102}
+2022-11-10 18:03:23.647	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "66fc88910", "success": 1, "ts": 6971330}
+2022-11-10 18:03:23.651	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7225d91d0", "success": 1, "ts": 7046997}
+2022-11-10 18:03:23.705	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "dacca7210", "success": 1, "ts": 7081423}
+2022-11-10 18:03:23.749	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "363601860", "success": 1, "streamId": "6227df06-44b5-4374-b0ef-bf00efd25b4e", "ts": 695406}
+2022-11-10 18:03:23.759	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "6d86d73f0", "success": 1, "streamId": "2b5cfc2b-a7e5-4b3e-a65f-7f2c2e626949", "ts": 488869}
+2022-11-10 18:03:23.791	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "8dab96720", "success": 1, "ts": 7275191}
+2022-11-10 18:03:23.836	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "60999bf60", "success": 1, "ts": 7129989}
+2022-11-10 18:03:24.065	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7225d91d0", "success": 1, "streamId": "11baf342-db32-49e2-b6ea-c885a1e6cd84", "ts": 411762}
+2022-11-10 18:03:24.206	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "66fc88910", "success": 1, "streamId": "e62132f6-eb3f-4d49-896b-0728d2f06c8c", "ts": 557048}
+2022-11-10 18:03:24.211	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "dacca7210", "success": 1, "streamId": "8616ac48-e1a9-4167-a21c-07cf157a5de2", "ts": 503403}
+2022-11-10 18:03:24.216	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "8dab96720", "success": 1, "streamId": "f2674342-df29-456f-b82f-a34e046fd70a", "ts": 422913}
+2022-11-10 18:03:24.304	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "60999bf60", "success": 1, "streamId": "f37c1d82-bf25-4038-8a39-00c249a8309d", "ts": 465857}
+2022-11-10 18:03:24.513	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "73e156450", "success": 1, "ts": 7779591}
+2022-11-10 18:03:24.592	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "deca27e40", "success": 1, "ts": 8230891}
+2022-11-10 18:03:24.658	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "ba9eef960", "success": 1, "ts": 7906665}
+2022-11-10 18:03:24.770	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "08bc799d0", "success": 1, "ts": 8093773}
+2022-11-10 18:03:24.774	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "ba9eef960", "success": 1, "streamId": "b7b5f761-6141-441d-91fe-514f2d00cbf4", "ts": 111293}
+2022-11-10 18:03:24.836	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "c8b9bf780", "success": 1, "ts": 8468542}
+2022-11-10 18:03:24.933	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "91b573e00", "success": 1, "ts": 8312710}
+2022-11-10 18:03:24.959	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "d2bf2ee40", "success": 1, "ts": 8411681}
+2022-11-10 18:03:25.014	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "deca27e40", "success": 1, "streamId": "37feaecc-42da-4d06-9da1-13d941209c73", "ts": 418945}
+2022-11-10 18:03:25.091	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "08bc799d0", "success": 1, "streamId": "e7fd838d-06c3-4840-a6e8-15b435376663", "ts": 318641}
+2022-11-10 18:03:25.124	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "73e156450", "success": 1, "streamId": "b096ca8e-a5b3-47ac-9159-8f0f8b7b833a", "ts": 609521}
+2022-11-10 18:03:25.130	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "0493b43d0", "success": 1, "ts": 8432707}
+2022-11-10 18:03:25.409	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "def180ac0", "success": 1, "ts": 8669469}
+2022-11-10 18:03:25.428	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "d2bf2ee40", "success": 1, "streamId": "6487ac27-fd2b-4e68-ace1-b83b50fec010", "ts": 467426}
+2022-11-10 18:03:25.433	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "0493b43d0", "success": 1, "streamId": "c8b579e8-012b-4cf9-91f3-fbde9a0714ae", "ts": 301014}
+2022-11-10 18:03:25.445	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "c8b9bf780", "success": 1, "streamId": "6a61f301-aaa7-4750-b855-34caac97cb81", "ts": 607509}
+2022-11-10 18:03:25.490	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "7cc712c20", "success": 1, "ts": 8730160}
+2022-11-10 18:03:25.518	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "91b573e00", "success": 1, "streamId": "e9e59afe-1148-4c58-ba84-b23e373ab3d4", "ts": 583293}
+2022-11-10 18:03:25.545	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "def180ac0", "success": 1, "streamId": "c72a9025-be9e-4177-a385-6573c0f9ab29", "ts": 133746}
+2022-11-10 18:03:25.664	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "723ef1060", "success": 1, "ts": 8955462}
+2022-11-10 18:03:25.744	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "7cc712c20", "success": 1, "streamId": "6a1acfb3-16ad-43cc-bb76-9832f15d20ef", "ts": 252546}
+2022-11-10 18:03:25.785	[34mINFO[0m	user/user.go:161	stats	{"method": "joinRoom", "userId": "608211ef0", "success": 1, "ts": 9151962}
+2022-11-10 18:03:26.118	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "723ef1060", "success": 1, "streamId": "8dbd6809-473c-4d56-a31f-c9c2cb54271c", "ts": 451881}
+2022-11-10 18:03:26.481	[34mINFO[0m	user/user.go:380	stats	{"method": "pubStream", "userId": "608211ef0", "success": 1, "streamId": "b18f0d9f-e26b-4905-8352-d31a66df3955", "ts": 691408}
